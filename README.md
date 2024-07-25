@@ -27,7 +27,7 @@ To get started with this project, follow the steps below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/github-repository-manager.git
+   git clone https://github.com/sabrikaankayas/github-repo-manager.git
    cd github-repository-manager
 2. Install dependencies:
    ```bash
