@@ -60,7 +60,3 @@ To get started with this project, follow the steps below:
 ### Toggling Repository Visibility
 
 1. If you have the appropriate permissions, you can toggle the visibility of your own repositories between public and private in the repository settings modal.
-
-## License
-
-This project is licensed under the MIT License.
