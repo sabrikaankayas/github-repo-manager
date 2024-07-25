@@ -47,7 +47,7 @@ To get started with this project, follow the steps below:
 ### Searching for Repositories
 
 1. Use the search bar on the dashboard to find public repositories.
-2. Click the settings icon next to a repository to open the repository settings modal. (You can click on repo names to visit git page.)
+2. Click the settings icon next to a repository to open the repository settings modal. (You can click on repo name to visit git page.)
 
 ### Starring/Unstarring Repositories
 
