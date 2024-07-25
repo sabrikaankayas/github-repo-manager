@@ -6,7 +6,7 @@ import SearchRepositories from "@/components/searchRepositories";
 import { useAuth } from "@/context/AuthContext";
 
 const DashboardPage = () => {
-  const { user, token } = useAuth();
+  const { token } = useAuth();
   const router = useRouter();
 
   useEffect(() => {

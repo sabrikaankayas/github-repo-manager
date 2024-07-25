@@ -1,6 +1,4 @@
-// /app/components/Profile.tsx
 import Image from "next/image";
-import { useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSignOutAlt } from "@fortawesome/free-solid-svg-icons";
 

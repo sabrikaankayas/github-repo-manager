@@ -1,4 +1,3 @@
-// /context/GitHubSearchContext.tsx
 "use client";
 
 import { Repository } from "@/interfaces/githubSearch";
